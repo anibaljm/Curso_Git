@@ -1,0 +1,1003 @@
+ 1034  npm run dev
+ 1035  npm run dev
+ 1036  curl -X post http://localhost:3000
+ 1037  curl -X get http://localhost:3000
+ 1038  npm install express
+ 1039  curl -X post -H 'Content-Type: text/html' -d {"title": "cadastro realizado!"
+ 1040  curl -X POST http://localhost:3000
+ 1041  curl -X post http://localhost:3000
+ 1042  npm install ejs
+ 1043  npm rus dev
+ 1044  npm run dev
+ 1045  npm run dev
+ 1046  cd Documentos
+ 1047  ls
+ 1048  cd node.js
+ 1049  npm run dev
+ 1050  curl -X POST http://localhost:8080/cadastro
+ 1051  curl -X POST http://localhost8080/cadastro
+ 1052  cd Documentos
+ 1053  ls
+ 1054  cd node.js
+ 1055  npm run dev
+ 1056  node index.js
+ 1057  npm run dev
+ 1058  cd Documentos
+ 1059  ls
+ 1060  cd node.js
+ 1061  curl -X POST http://localhost8080/cadastro
+ 1062  curl -Xpost http://localhost:8080/cadastro
+ 1063  curl - X POST http://localhost:8080/cadastro
+ 1064  cd Documentos
+ 1065  ls
+ 1066  cd node.js
+ 1067  npm install --save sequelize
+ 1068  sudo lsof -i :8080
+ 1069  kill -9 {PID}
+ 1070  killall -9 node
+ 1071  npm run dev
+ 1072  curl - X PUT http://localhost:3000/update
+ 1073  curl -X POST http://localhost:3000/cadastro
+ 1074  curl -X DELETE http://localhost:3000/delete
+ 1075  npm run dev
+ 1076  nodemon server.js
+ 1077  npm run dev
+ 1078  npm run dev
+ 1079  npm install  --save sqlite3
+ 1080  npm install --save-dev sequelize-cli
+ 1081  npm sequelize-cli init
+ 1082  npx sequelize-cli init
+ 1083  cd Documentos
+ 1084  ls
+ 1085  cd node.js
+ 1086  ls
+ 1087  npm run dev
+ 1088  npx sequelize-cli model:generate --name Task --attributes name:string
+ 1089  npx sequelize-cli db:migrate
+ 1090  npx sequelize-cli seed:generate --name demo-tasks
+ 1091  npx sequelize-cli db:seed:all
+ 1092  cd ~/Documentos/sqlitestudio-3.3(1).3/
+ 1093  cd ~/Documentos/sqlitestudio-3.3.3/
+ 1094  cd ~/Downloads/sqlitestudio-3.3.3
+ 1095  ls
+ 1096  cd SQLiteStudio
+ 1097  ls
+ 1098  ./sqlitestudio
+ 1099  cd Documentos
+ 1100  ls
+ 1101  cd node.js
+ 1102  ls
+ 1103  npm run dev
+ 1104  cd Documentos
+ 1105  ls
+ 1106  cd Projeto.nodejs
+ 1107  npm init -y
+ 1108  npm express -salvar
+ 1109  npm install express -salvar
+ 1110  npm install nodemon -- save - dev
+ 1111  npm run dev
+ 1112  npm install nodemon --save -dev
+ 1113  ls
+ 1114  cd Documentos
+ 1115  cd Documentos
+ 1116  ls
+ 1117  cd Projeto.nodejs
+ 1118  npm run dev
+ 1119  sudo lsof -i :3000
+ 1120  kill -9 {50722}
+ 1121  npm run dev
+ 1122  kill -9 {node}
+ 1123  kill -9 node
+ 1124  kill -9 50722
+ 1125  npm run dev
+ 1126  sudo apt-get update
+ 1127  sudo apt-get install insomnia
+ 1128  snap install insomnia
+ 1129  npm run dev
+ 1130  ls
+ 1131  cd sqlitestudio-3.3.3
+ 1132  ls
+ 1133  cd SQLiteStudio
+ 1134  ls
+ 1135  ./sqlitestudio
+ 1136  npm install --save sequelize
+ 1137  npm install --save sqlite3
+ 1138  npm install --save-dev sequelize-cli
+ 1139  npm install --save-dev nodemon
+ 1140  npx sequelize-cli init
+ 1141  npx sequelize-cli model:generate --name Task --attributes name:string
+ 1142  npx sequeli-cli db:migrate
+ 1143  npx sequelize-cli db:migrate
+ 1144  npx sequelize--cli seen:generate --name demo-tasks
+ 1145  npm sequelize-cli seed:generate --name demo-tasks
+ 1146  npx sequelize-cli seed:generate --name demo-tasks
+ 1147  npx sequelize-cli db:seed:all
+ 1148  npx sequelize-cli db.seed:all
+ 1149  npx sequelize-cli db:seed:all
+ 1150  ls
+ 1151  cd sqlitestudio-3.3.3
+ 1152  ls
+ 1153  cd SQLiteStudio
+ 1154  ls
+ 1155  ./sqlitestudio
+ 1156  npx sequelize-cli db:seed:all
+ 1157  sqlite3 storage.sqlite
+ 1158  npx sequelize-cli db:seed:all
+ 1159  ls
+ 1160  cd sqlitestudio-3.3.3
+ 1161  ls
+ 1162  cd SQLiteStudio
+ 1163  ls
+ 1164  ./sqlitestudio
+ 1165  ls
+ 1166  ./sqlitestudio
+ 1167  cd Documentos
+ 1168  ls
+ 1169  cd Projeto.nodejs
+ 1170  npm run dev
+ 1171  killall -9 node
+ 1172  isof -i tcp:3000
+ 1173  ps
+ 1174  sudo kill PID
+ 1175  taskill /pid PID
+ 1176  npx kill-port 3000
+ 1177  npm run dev
+ 1178  cd Documentos
+ 1179  ls
+ 1180  cd Projeto.nodejs
+ 1181  npm run dev
+ 1182  npm install nodemon --save
+ 1183  ls
+ 1184  cd sqlitestudio-3.3.3
+ 1185  ls
+ 1186  cd SQLiteStudio
+ 1187  ls
+ 1188  ./sqlitestudio
+ 1189  cd Documentos
+ 1190  ls
+ 1191  cd Projeto.nodejs
+ 1192  ls
+ 1193  cd sqlitestudio-3.3.3
+ 1194  ls
+ 1195  cd SQLiteStudio
+ 1196  ls
+ 1197  cd sqlitestudio
+ 1198  ./sqlitestudio
+ 1199  cd Documentos
+ 1200  ls
+ 1201  cd Projeto.nodejs
+ 1202  npm run dev
+ 1203  npx kill-port 3000
+ 1204  npm run dev
+ 1205  npx sequelize-cli db:seed:all
+ 1206  npm run dev
+ 1207  ls
+ 1208  cd sqlitestudio-3.3.3
+ 1209  ls
+ 1210  cd SQLiteStudio
+ 1211  ls
+ 1212  ./sqlitestudio
+ 1213  cd Documentos
+ 1214  ls
+ 1215  cd Projeto.nodejs
+ 1216  ls
+ 1217  npm run dev
+ 1218  npx kill-port 3000
+ 1219  npm run dev
+ 1220  npx kill-port 3000
+ 1221  npm run dev
+ 1222  ls
+ 1223  cd sqlitestudio-3.3.3
+ 1224  ls
+ 1225  cd SQLiteStudio
+ 1226  ls
+ 1227  ./sqlitestudio
+ 1228  cd Documentos
+ 1229  ls
+ 1230  cd Projeto.nodejs
+ 1231  ls
+ 1232  cd sqlitestudio-3.3.3
+ 1233  ls
+ 1234  cd SQLiteStudio
+ 1235  ls
+ 1236  ./sqlitestudio
+ 1237  ls
+ 1238  cd sqlitestudio-3.3.3
+ 1239  ls
+ 1240  SQLiteStudio
+ 1241  cd SQLiteStudio
+ 1242  ls
+ 1243  ./sqlitestudio
+ 1244  cd Documentos
+ 1245  ls
+ 1246  cd Projeto.nodejs
+ 1247  npm run dev
+ 1248  npx kill-port 3000
+ 1249  npm run dev
+ 1250  cd Documentos
+ 1251  ls
+ 1252  cd Projeto.nodejs
+ 1253  ls
+ 1254  npx sequelize-cli migration:generate --name create-tarefas --done create-boolean
+ 1255  npx sequelize-cli migration:generate --done create
+ 1256  npx sequelize-cli migration:generate --name create: tarefas --done create: true
+ 1257  npx sequelize-cli migration:generate --name create-tarefas --done create-booleano
+ 1258  npx sequelize-cli migration:generate --name create-tarefas --done create
+ 1259  npx sequelize-cli migration generate --name-tarefas
+ 1260  npx sequelize-cli model:generate --nome --done
+ 1261  npx sequelize-cli migration generate --name create-tarefas 
+ 1262  npx sequelize-cli model: generate --name
+ 1263  npx sequelize-cli model:generate -- name--tarefas done--true
+ 1264  npx sequelize-cli model:generate --name create-Task
+ 1265  npx sequelize-cli model:generate --name create-Task --atributes-true
+ 1266  npx sequelize-cli db:migrate
+ 1267  npx sequelize-cli model:generate --name Task --attributes name:string done:boolean
+ 1268  npm sequelize-cli init
+ 1269  npx sequelize-cli init
+ 1270  npx sequelize-cli model:generate --name-Task --attributes name:string
+ 1271  npx sequelize-cli model:generate --name:Task --attributes name:string
+ 1272  npx sequelize-cli model:generate --name Task --attributes name:string
+ 1273  npx sequelize init
+ 1274  npx sequelize-cli db:migrate
+ 1275  npx sequelize-cli db:seed:all
+ 1276  cd Documentos
+ 1277  ls
+ 1278  cd sqlitestudio-3.3.3
+ 1279  ls
+ 1280  cd SQLiteStudio
+ 1281  ls
+ 1282  ./sqlitestudio
+ 1283  cd Documentos
+ 1284  ls
+ 1285  cd Project.nodejs
+ 1286  npm -y
+ 1287  npm init -y
+ 1288  npm install express -save
+ 1289  npm install nodemon --save-dev
+ 1290  npm install --save sequelize
+ 1291  npm install --save sqlite3
+ 1292  npm install --save-dev sequelize-cli
+ 1293  npx sequelize-cli init
+ 1294  npx sequelize-cli model:generate --name Task --attributes name:string done:boolean
+ 1295  npx sequelize-cli model:generate --name Task --attributes name:string
+ 1296  npx sequelize-cli --name Task --attributes done:DataTypes.BOOLEAN
+ 1297  npx sequelize-cli model:generate --attributes done:boolean
+ 1298  npx sequelize-cli model:generate --name Task --attributes done:boolean
+ 1299  npx sequelize-cli model:create --name Task --attributes done:boolean
+ 1300  npx sequelize-cli db:migrate
+ 1301  cd Documentos
+ 1302  ls
+ 1303  cd sqlitestudio-3.3.3
+ 1304  ls
+ 1305  cd SQLiteStudio
+ 1306  ls
+ 1307  ./sqlitestudio
+ 1308  cd Documentos
+ 1309  ls
+ 1310  cd Project.nodejs
+ 1311  ls
+ 1312  cd sqlitestudio-3.3.3
+ 1313  ls
+ 1314  cd SQLiteStudio
+ 1315  ls
+ 1316  ./sqlitestudio
+ 1317  cd Documentos
+ 1318  ls
+ 1319  cd Project.nodejs
+ 1320  npm run dev
+ 1321  npx sequelize-cli seed:generate --name demo-tasks
+ 1322  npx sequelize-cli db:seed:all
+ 1323  ls
+ 1324  ./meubanco.db
+ 1325  cd Documentos
+ 1326  ls
+ 1327  cd sqlitestudio-3.3.3
+ 1328  ls
+ 1329  cd SQLiteStudio
+ 1330  ls
+ 1331  sqlitestudio
+ 1332  ./sqlitestudio
+ 1333  ls
+ 1334  cd sqlitestudio
+ 1335  md sequelize_demo
+ 1336  ls
+ 1337  md sequelize_demo
+ 1338  cd Documentos
+ 1339  ls
+ 1340  cd Project.nodejs
+ 1341  ls
+ 1342  cd sqlitestudio-3.3.3
+ 1343  ls
+ 1344  cd SQLiteStudio
+ 1345  ls
+ 1346  cd sqlitestudio
+ 1347  ./sqlitestudio
+ 1348  npm init-y
+ 1349  npm install express -save
+ 1350  npm install nodemon --save -dev
+ 1351  npm init -y
+ 1352  ls
+ 1353  cd sqlitestudio-3.3.3
+ 1354  ls
+ 1355  cd SQLiteStudio
+ 1356  ls
+ 1357  ./sqlitestudio
+ 1358  cd Documentos
+ 1359  ls
+ 1360  cd Project-nodejs
+ 1361  npm init -y
+ 1362  npm install express
+ 1363  npm install nodemon --save -dev
+ 1364  npm install --save sequelize
+ 1365  npm install --save sqlite3
+ 1366  npm install --save-dev sequelize-cli
+ 1367  npx sequelize-cli init
+ 1368  npx sequelize-cli model:generate --name Task --attributes description:string,done:boolean
+ 1369  npx sequelize-cli db:migrate
+ 1370  npx sequelize-cli seed:generate --name demo--tasks
+ 1371  npx sequelize-cli db:seed:all
+ 1372  cd Documentos
+ 1373  ls
+ 1374  cd sqlite-3.3.3
+ 1375  cd sqlitestudio-3.3.3
+ 1376  ls
+ 1377  cd SQLiteStudio
+ 1378  ls
+ 1379  ./sqlitestudio
+ 1380  cd Documentos
+ 1381  ls
+ 1382  cd Project-nodejs
+ 1383  npm run dev
+ 1384  npx kill port 3000
+ 1385  npx kill - porta 3000
+ 1386  npm run dev
+ 1387  npx kill - porta 3000
+ 1388  npm run dev
+ 1389  cd Documentos
+ 1390  ls
+ 1391  cd Project-nodejs
+ 1392  npm run dev
+ 1393  npx kill -port 3000
+ 1394  npm run dev
+ 1395  npm kill -port 3000
+ 1396  npx kill -porta 3000
+ 1397  npx kill -p 3000
+ 1398  npm run dev
+ 1399  echo "#Projeto.Nodejs" >> readme.md
+ 1400  git init
+ 1401  git add readme.md
+ 1402  ls
+ 1403  git add index.js
+ 1404  git add banco.db
+ 1405  git add package.json
+ 1406  git add package-lock.json
+ 1407  git add seeders
+ 1408  git add models
+ 1409  git node_modules
+ 1410  git add node_modules
+ 1411  git add migrations
+ 1412  git add config
+ 1413  git commit -m "primeiro commit"
+ 1414  git branch -m main
+ 1415  git remote add origin https://github.com/Melsanz/Projeto.Nodejs.git
+ 1416  git push -u origin main
+ 1417  npm init -y
+ 1418  npm install express nodemon mongoose
+ 1419  npm init -y
+ 1420  npm install express nodemon mongoose
+ 1421  npm start
+ 1422  ls
+ 1423  ./Postman
+ 1424  cd Área de trabalho
+ 1425  cd Área de Trabalho
+ 1426  cd Downloads
+ 1427  ls
+ 1428  tar zxvf Postman-linux-x64-*.tar.gz
+ 1429  ls
+ 1430  cd postman-9.25.2-linux-x64
+ 1431  sudo ln -s /opt/Postman/Postman /usr/local/bin/postman
+ 1432  postman
+ 1433  sudo snap install postman
+ 1434  sudo cat <<EOF > /usr/share/applications/postman.desktop
+ 1435  [Desktop Entry]
+ 1436  Type=Application
+ 1437  Name=Postman
+ 1438  Icon=/opt/Postman/app/resources/app/assets/icon.png
+ 1439  Exec="/opt/Postman/Postman"
+ 1440  Comment=Postman GUI
+ 1441  Categories=Development;Code;
+ 1442  EOF
+ 1443  ./postman
+ 1444  cd postman
+ 1445  ./postman-inc
+ 1446  ls
+ 1447  ./Postman
+ 1448  cd Postman
+ 1449  ls
+ 1450  ./Postman
+ 1451  npm run dev
+ 1452  npm run
+ 1453  npm install --save-dev nodemon
+ 1454  npm run dev
+ 1455  npm run
+ 1456  npm start
+ 1457  npx kill -port 3000
+ 1458  npm start
+ 1459  npm install nodemon
+ 1460  npm start
+ 1461  kill -porta 8080
+ 1462  kill -port 8080
+ 1463  ps
+ 1464  npm start
+ 1465  kill porta 3000
+ 1466  ps
+ 1467  kill [169376] pid
+ 1468  kill -L
+ 1469  kill -9 -1
+ 1470  npm start
+ 1471  ls
+ 1472  ./Postman
+ 1473  cd Documentos
+ 1474  ls
+ 1475  cd Projeto.Back-end
+ 1476  ls
+ 1477  npm install express nodemon mongosse
+ 1478  npm install express nodemon mongoose
+ 1479  ls
+ 1480  npm install express nodemon mongoose
+ 1481  npm install express
+ 1482  npm nodemon
+ 1483  npm install nodemon
+ 1484  cd Documentos
+ 1485  ls
+ 1486  cd ProjetoFinal-Back-end
+ 1487  ls
+ 1488  npm install express nodemon mongoose
+ 1489  npm init -y
+ 1490  npm install express nodemon mongoose
+ 1491  npm start
+ 1492  ls
+ 1493  ./ Postman
+ 1494  ls
+ 1495  cd Postman
+ 1496  ./Postman
+ 1497  npm start
+ 1498  cd Documentos
+ 1499  ls
+ 1500  ls TESTE
+ 1501  npm init -y
+ 1502  ls
+ 1503  cd TESTE
+ 1504  npm init -y
+ 1505  npm install express
+ 1506  npm install nodemon
+ 1507  npm install mongoose
+ 1508  npm start
+ 1509  cd Documentos
+ 1510  ls
+ 1511  cd TESTE
+ 1512  npm start
+ 1513  cd Documentos
+ 1514  ls
+ 1515  cd TESTE
+ 1516  npm start
+ 1517  cd Documentos
+ 1518  ls
+ 1519  cd TESTE
+ 1520  npm start
+ 1521  cd Documentos
+ 1522  ls
+ 1523  cd TESTE
+ 1524  npm start
+ 1525  cd Documentos
+ 1526  ls
+ 1527  cd TESTE
+ 1528  npm start
+ 1529  node --trace-warnings
+ 1530  npm start
+ 1531  npm init -y
+ 1532  npm install
+ 1533  npm install nodemon
+ 1534  npm express
+ 1535  npm intall express
+ 1536  npm mongoose
+ 1537  nom intall mongoose
+ 1538  npm install mongoose
+ 1539  npm intall express
+ 1540  npm install express
+ 1541  npm start
+ 1542  ls
+ 1543  cd Aread de Trabalho
+ 1544  cd Área de Trabalho
+ 1545  cd Documentos
+ 1546  ls
+ 1547  cd ProjetoFinal
+ 1548  ls
+ 1549  git init
+ 1550  echo "#Project_final.Back-end" >> README.md
+ 1551  git status
+ 1552  git add README.md
+ 1553  git add index.js
+ 1554  git add models
+ 1555  git add routes
+ 1556  git add package.json
+ 1557  git add package-lock.json
+ 1558  git status
+ 1559  git add .gitignore
+ 1560  git status
+ 1561  cd Documentos
+ 1562  ls
+ 1563  cd ProjetoFinal
+ 1564  ls
+ 1565  git init
+ 1566  echo "#Projeto_final.Back-end" >> README.md
+ 1567  git init
+ 1568  git add README.md
+ 1569  git commit -m "Create README.md"
+ 1570  git branch -M main
+ 1571  git remote add origin https://github.com/Melsanz/Projeto_final.Back-end.git
+ 1572  git push -u origin main
+ 1573  git remote add origin https://github.com/Melsanz/Projeto_final.Back-end.git
+ 1574  git branch -M main
+ 1575  git push -u origin main
+ 1576  git commit --amend
+ 1577  cd Documentos
+ 1578  ls
+ 1579  cd ProjetoFinal
+ 1580  ls
+ 1581  git add index.js
+ 1582  git commit -m "conexão da API REST"
+ 1583  git add index.js
+ 1584  git add models
+ 1585  git add routes
+ 1586  git add package.json
+ 1587  git add package-lock.json
+ 1588  git add .gitignore
+ 1589  git add README.md
+ 1590  git status
+ 1591  git commit -m "create commit"
+ 1592  git branch -M main
+ 1593  git remote add origin https://github.com/Melsanz/Projeto_final.Back-end.git
+ 1594  git branch -M main
+ 1595  git push -u origin main
+ 1596  git commit --amend
+ 1597  git commit --amend create commit
+ 1598  git commit --amend
+ 1599  cd Documentos
+ 1600  ls
+ 1601  cd ProjetoFinal
+ 1602  ls
+ 1603  echo "#APIrest_ProjetoFinal" >> README.md
+ 1604  git init
+ 1605  git add README.md
+ 1606  git add index.js
+ 1607  git add models
+ 1608  git add routes
+ 1609  git add .gitignore
+ 1610  git add package.json
+ 1611  git add package-lock.json
+ 1612  git status
+ 1613  git commit -m "first commit"
+ 1614  git branch -M main
+ 1615  git remote add origin https://github.com/Melsanz/APIrest_ProjetoFinal.git
+ 1616  git branch -M main
+ 1617  git push -u origin main
+ 1618  git branch -d 
+ 1619  git remote rm origin
+ 1620  git remote add origin https://github.com/Melsanz/APIrest_ProjetoFinal.git
+ 1621  git push -u origin main
+ 1622  git branch -d main
+ 1623  cd Documentos
+ 1624  ls
+ 1625  cd ProjetoFinal
+ 1626  ls
+ 1627  git init
+ 1628  git add README.md
+ 1629  git add index.js
+ 1630  git add models
+ 1631  git add routes
+ 1632  git add .gitignore
+ 1633  git add package.json
+ 1634  git add package-lock.json
+ 1635  git status
+ 1636  git branch -d main
+ 1637  git branch -d
+ 1638  git branch -d origin/main
+ 1639  git branch -m main
+ 1640  git remote add origin https://github.com/Melsanz/APIrest_projeto.final.git
+ 1641  git remote add github https://github.com/Melsanz/APIrest_projeto.final.git
+ 1642  git push -u origin main
+ 1643  git push -f
+ 1644  git remote remove origin
+ 1645  https://github.com/Melsanz/APIrest_projeto.final.git
+ 1646  git remote add origin https://github.com/Melsanz/APIrest_projeto.final.git
+ 1647  git branch -M main
+ 1648  git push -u origin main
+ 1649  git branch -m main <BRANCH>
+ 1650  git fetch origin
+ 1651  cd Documentos
+ 1652  ls
+ 1653  cd ProjetoFinal
+ 1654  ls
+ 1655  echo "# APIrest_projeto.final" >> README.md
+ 1656  git init
+ 1657  git add README.md
+ 1658  git add index.js
+ 1659  git add models
+ 1660  git add routes
+ 1661  git add .gitignore
+ 1662  git add package.json
+ 1663  git add package-lock.json
+ 1664  git status
+ 1665  git commit -m "create commit"
+ 1666  git branch -M mestre
+ 1667  git remote add origin https://github.com/Melsanz/APIrest_projeto.final.git
+ 1668  git branch -M mestre
+ 1669  git push -u origin mestre
+ 1670  cd Documentos
+ 1671  ls
+ 1672  cd APIescolar
+ 1673  ls
+ 1674  git init
+ 1675  echo "#APIrest_Gest-oEscolar" >> README.md
+ 1676  git add README.md
+ 1677  git add index.js
+ 1678  git add models
+ 1679  git add routes
+ 1680  git add .gitignore
+ 1681  git add package.json
+ 1682  git add package-lock.json
+ 1683  git status
+ 1684  git restore README.md
+ 1685  git status
+ 1686  git remover README.md
+ 1687  git --help
+ 1688  git rm README.md
+ 1689  -f
+ 1690  git -f
+ 1691  git --f
+ 1692  use -f
+ 1693  git -f
+ 1694  git log
+ 1695  git rm create README.md
+ 1696  git rm README.md
+ 1697  git -f
+ 1698  git -r
+ 1699  git -C
+ 1700  git rm APIescolar
+ 1701  git status
+ 1702  git rebase -i --root
+ 1703  :wq
+ 1704  git branch
+ 1705  git branch -D meste
+ 1706  git branch -D mestre
+ 1707  git branch -a
+ 1708  git branch -a main
+ 1709  git branch 
+ 1710  git branch -D mestre
+ 1711  git fecth
+ 1712  git remote
+ 1713  git remote rm APIescolar
+ 1714  git remote rm APIrest_projeto.final 
+ 1715  git remote rm curso-git
+ 1716  cd Documentos
+ 1717  ls
+ 1718  cd ProjetoFinal
+ 1719  ls
+ 1720  git commit --amend
+ 1721  ls
+ 1722  git log
+ 1723  git rm 1ad8a4143de6c592dae360c54e13876aa3401102
+ 1724  git commit --amend
+ 1725  fg
+ 1726  git reset HEAD~
+ 1727  git status
+ 1728  git reset HEAD~3
+ 1729  git status
+ 1730  git commit -a -m "first commit"
+ 1731  git branch -m
+ 1732  git push -u origin main
+ 1733  git remote add origin git@github.com:Melsanz/APIrest_projeto.final.git
+ 1734  git push -u origin mestre
+ 1735  cd Documentos
+ 1736  ls
+ 1737  cd ProjetoFinal
+ 1738  ls
+ 1739  git init
+ 1740  git commit --amend
+ 1741  git rebase -i HEAD~
+ 1742  git reset HEAD~1 --hard
+ 1743  ls README.md
+ 1744  ls
+ 1745  git log
+ 1746  git commit --amend
+ 1747  git status
+ 1748  git pull
+ 1749  git pull origin mestre
+ 1750  git branches
+ 1751  git branch
+ 1752  git config --global pull.ff only
+ 1753  git status
+ 1754  git rebase --edit-todo
+ 1755  git log
+ 1756  git push -u origin mestre
+ 1757  git push --help
+ 1758  git branch -d mestre
+ 1759  git log
+ 1760  git commit --amend -m 'adding project'
+ 1761  git push
+ 1762  git log
+ 1763  git push --force
+ 1764  git log
+ 1765  git reset --hard
+ 1766  git reset HEAD~2
+ 1767  git commit index.js -m 'adding project'
+ 1768  git rebase --edit-todo
+ 1769  git log
+ 1770  git commit --amend -m 'adding project'
+ 1771  git push --force
+ 1772  cd Documentos
+ 1773  ls
+ 1774  cd ProjetoFinal
+ 1775  ls
+ 1776  git pull
+ 1777  git push
+ 1778  npm start
+ 1779  npm install swagger
+ 1780  npm start
+ 1781  npm uninstall swagger
+ 1782  npm install swagger-ui
+ 1783  npm start
+ 1784  npm uninstall swagger-ui
+ 1785  npm intall swagger-ui-express
+ 1786  npm install swagger-ui-express
+ 1787  npm start
+ 1788  npm install swagger-jsdoc
+ 1789  npm run start
+ 1790  npm start
+ 1791  npm run start
+ 1792  npm start
+ 1793  ls
+ 1794  cd Documentos
+ 1795  ls
+ 1796  cd 'tipos de arepa'
+ 1797  ls
+ 1798  git init
+ 1799  git initi
+ 1800  git init
+ 1801  ls
+ 1802  ls-a
+ 1803  ls -a
+ 1804  ls ..
+ 1805  pwd
+ 1806  cd
+ 1807  ls
+ 1808  cd musica
+ 1809  cd Imagens/
+ 1810  ls
+ 1811  pwd
+ 1812  cd ..
+ 1813  cd ~
+ 1814  cd
+ 1815  ls
+ 1816  cd Imagens
+ 1817  ls
+ 1818  rm-r borrala loco
+ 1819  rm-r 'borrala loco'
+ 1820  rm-r 'borrala loco.png'
+ 1821  rm-r "borrala loco.png"
+ 1822  rm-r
+ 1823  rm -r borrala loco.png
+ 1824  rm -r 'borrala loco.png'
+ 1825  cd
+ 1826  ls
+ 1827  mkdir 'nueva carpeta'
+ 1828  ls
+ 1829  cd 'nueva carpeta'
+ 1830  ls
+ 1831  mkdir 'otra carpeta' 'carpeta otra'
+ 1832  ls
+ 1833  mkdir perro loco
+ 1834  ls
+ 1835  mkdir perro_loco
+ 1836  ls
+ 1837  mkdir 'unik'
+ 1838  ls
+ 1839  mv perro_loco loco_perro
+ 1840  ls
+ 1841  cd perro
+ 1842  ls
+ 1843  mkdir moverpunik
+ 1844  ls
+ 1845  mv moverpunik unik
+ 1846  ls
+ 1847  mv unik loco/
+ 1848  ls
+ 1849  cd loco
+ 1850  ls
+ 1851  cd
+ 1852  ls
+ 1853  cd 'nueva carpeta'
+ 1854  ls
+ 1855  mv loco perro
+ 1856  ls
+ 1857  mv 'otra carpeta' perro
+ 1858  ls
+ 1859  mv unik loco_perro 'carpeta otra' perro/
+ 1860  ls
+ 1861  perro
+ 1862  ls
+ 1863  cd perro
+ 1864  ls
+ 1865  cp loco unk
+ 1866  ls
+ 1867  co loco unik/
+ 1868  ls
+ 1869  cp loco unik/
+ 1870  touch leeme.txt
+ 1871  ls
+ 1872  clear
+ 1873  cd
+ 1874  ls
+ 1875  rm -r 'nueva carpeta'
+ 1876  ls
+ 1877  clear
+ 1878  git config --global user.name 'anibal jimenez'
+ 1879  clear
+ 1880  git config user.name
+ 1881  clear
+ 1882  git config --global user.email 'anibaljm1011@gmail.com'
+ 1883  git config user.name
+ 1884  cd
+ 1885  cd Destokp/
+ 1886  ls
+ 1887  cd 'Área de Trabalho'
+ 1888  ls
+ 1889  mkdir GIT_anibal
+ 1890  cd GIT_anibal
+ 1891  ls
+ 1892  git config user name
+ 1893  git config user.name
+ 1894  git init
+ 1895  git status
+ 1896  echo '#Aprendendo usar o Git' > leeme.md
+ 1897  git status
+ 1898  git add readme.md
+ 1899  git add leeme.md
+ 1900  git status
+ 1901  git commit -m 'Commit inicial'
+ 1902  git status
+ 1903  echo '##Aula 1' >> leeme.md
+ 1904  git status
+ 1905  echo 'anibal jimenez' > participantes.txt
+ 1906  git status
+ 1907  git add.
+ 1908  git add .
+ 1909  git status
+ 1910  git restore --staged participantes.txt
+ 1911  git status
+ 1912  git add participantes.txt[git status
+ 1913  git add participantes,txt
+ 1914  git status
+ 1915  git add participantes.txt
+ 1916  git status
+ 1917  git restore --staged .
+ 1918  git status
+ 1919  git commit -am 'Alteraçao no leeme'
+ 1920  git status
+ 1921  git add participantes.txt[git status
+ 1922  git add participantes.txt
+ 1923  git status
+ 1924  git commit -m 'adicionado participantes.txt'
+ 1925  git init
+ 1926  git status
+ 1927  git config user.name
+ 1928  git init
+ 1929  git status
+ 1930  git user.name
+ 1931  git user name
+ 1932  git username
+ 1933  git init
+ 1934  git user.name
+ 1935  git config user.name
+ 1936  git.config status
+ 1937  git status
+ 1938  git config
+ 1939  git config --global
+ 1940  git account
+ 1941  git --help
+ 1942  git init
+ 1943  git status
+ 1944  clear
+ 1945  git user.name
+ 1946  git config
+ 1947  git account
+ 1948  git
+ 1949  git config
+ 1950  git config user.name
+ 1951  git config --global
+ 1952  git status
+ 1953  clear
+ 1954  git log
+ 1955  git init
+ 1956  git log
+ 1957  git config user.name
+ 1958  git log
+ 1959  git init
+ 1960  git status
+ 1961  clear
+ 1962  git log --author
+ 1963  git log --author='Melissa Mendoza'
+ 1964  git log --author= anibal jimenez
+ 1965  clear
+ 1966  git log
+ 1967  git status
+ 1968  git restore
+ 1969  git status
+ 1970  git add readme.md
+ 1971  git status
+ 1972  git config user;name
+ 1973  git config user.name
+ 1974  git status
+ 1975  cd
+ 1976  li
+ 1977  ls
+ 1978  cd 'Área de Trabalho'
+ 1979  ls
+ 1980  GIT_anibal
+ 1981  cd GIT_anibal
+ 1982  ls
+ 1983  git add leeme.md
+ 1984  git add participantes.txt
+ 1985  git status
+ 1986  clear
+ 1987  cd
+ 1988  cd.
+ 1989  ls
+ 1990  cd
+ 1991  cd 'Área de Trabalho'
+ 1992  ls
+ 1993  rm GIT_anibal
+ 1994  git config --global user.name 'anibal jimenez
+git config --global user.name 'anibaljm1011'
+git config user.name
+'
+ 1995  CLEAR
+ 1996  clear
+ 1997  git config-- user.name
+ 1998  git config --user.name
+ 1999  clear
+ 2000  git config --global user.name 'anibal jimenez'
+ 2001  git config --global user.email 'anibaljm1011@gmail.com'
+ 2002  git config user.name
+ 2003  cd 'Área de Trabalho'
+ 2004  mkdir Curso_Git
+ 2005  cd Curso_Git
+ 2006  git config user.name
+ 2007  git init
+ 2008  git status
+ 2009  echo '#Aprendendo usar o Git' > readme.md
+ 2010  git status
+ 2011  git add readme.md
+ 2012  git status
+ 2013  git commit -m 'Commit inicial'
+ 2014  git status
+ 2015  echo '##Aula 1' >> readme.md
+ 2016  git status
+ 2017  echo 'Anibal Jimenez' > participantes.txt
+ 2018  git status
+ 2019  git add.
+ 2020  git add .
+ 2021  git status
+ 2022  git restore --staged participantes.txt
+ 2023  git status
+ 2024  git add participantes.txt
+ 2025  git status
+ 2026  git restore --staged .
+ 2027  git status
+ 2028  git commit -am 'Alteração no readme'
+ 2029  git add participantes.txt
+ 2030  git -m 'Adicionado participantes.txt'
+ 2031  git status
+ 2032  git commit -m 'Adicionando participantes.txt'
+ 2033  history > Aula_3.txt
