@@ -1,0 +1,70 @@
+    1  clear
+    2  git log
+    3  git log --pretty=oneline
+    4  git log --stat
+    5  git log -p
+    6* git log --since=
+    7  git log --author='anibal jimenez'
+    8  git log --author='Anibal Jimenez'
+    9  git status
+   10  touch teste
+   11  git aff teste
+   12  git add teste
+   13  git status
+   14  git commit -m 'Commit de teste'
+   15  commit log
+   16  git log
+   17  git reset --soft HEAD~
+   18  git log
+   19  git status
+   20  git commit -m 'Commit de teste'
+   21  git log
+   22  git reset --hard HEAD~
+   23  git log
+   24  git status
+   25  git log --prettyoneline
+   26  git log --pretty=oneline
+   27  git checkout HEAD~~
+   28  git status
+   29  git log
+   30  ls
+   31  git checkout HEAD~
+   32  git checkout master
+   33  git checkout main
+   34  clear
+   35  mkdir .vscode
+   36  touch conf.txt
+   37  mv conf.txt .vscode*
+   38  cd .vscode
+   39  ls
+   40  ls .vscode
+   41  ls
+   42  mv conf.txt .vscode/
+   43  cd Área de Trabalho
+   44  cd 'Área de Trabalho'
+   45  ls
+   46  ls .vscode/
+   47  cd
+   48  git status
+   49  cd 'Área de Trabalho'
+   50  LS
+   51  ls
+   52  Curso_Git
+   53  cd Curso_Git
+   54  ls
+   55  clear
+   56  ls
+   57  clear
+   58  mkdir .vscode
+   59  ls -a
+   60  git status
+   61  echo '.vscode/' > .gitignore
+   62  git status
+   63  touch pessoal.conf
+   64  git status
+   65  echo 'pessoal.conf' >> .gitignore
+   66  git status
+   67  git add .gitignore
+   68  git commit -m 'Adicionando arquivo gitignore'
+   69  git status
+   70  history > Aula_4.txt
