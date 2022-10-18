@@ -1,1 +1,3 @@
-# curso
+# curso GIT
+
+Prof: Kauê Maia
